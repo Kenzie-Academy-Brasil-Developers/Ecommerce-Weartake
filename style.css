@@ -41,6 +41,7 @@ nav {
     justify-content: space-evenly;
     gap: 5%;
     color: #828282;
+    font-weight: 700;
 }
 
 li:hover {
@@ -119,6 +120,7 @@ img {
 }
 
 .addCart:hover {
+    cursor: pointer;
     color: #6B54DE;
 }
 
@@ -149,6 +151,10 @@ aside {
     color: white;
     padding: 10px;
     font-size: 16px;
+}
+
+#search:hover {
+    cursor: pointer;
 }
 
 #cartArea {
