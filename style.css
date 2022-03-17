@@ -95,7 +95,7 @@ img {
     gap: 15px;
 }
 
-.acessorios, .calcados, .camisetas {
+.acessorios, .calcados, .camisetas, .calcados {
     background-color: #2E245E;
     width: fit-content;
     padding: 5px;
