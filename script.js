@@ -86,6 +86,11 @@ function createProduct (
         <p class="price">R$ ${preco}</p>
         <a class="addCart">Adicionar ao carrinho</a>
     </div>`;
+
+/*    VanillaTilt.init(produto, {
+        max: 25,
+        speed: 2000
+    });*/
         
         products.appendChild(produto);
 }

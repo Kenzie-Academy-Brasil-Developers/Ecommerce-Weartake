@@ -255,6 +255,10 @@ aside {
     width: 20px;
 }
 
+.cartButton:hover {
+    background-color: #FFF;
+}
+
 #fim {
     font-size: 15px;
     padding: 10px;
