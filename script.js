@@ -87,10 +87,10 @@ function createProduct (
         <a class="addCart">Adicionar ao carrinho</a>
     </div>`;
 
-/*    VanillaTilt.init(produto, {
+    VanillaTilt.init(produto, {
         max: 25,
         speed: 2000
-    });*/
+    });
         
         products.appendChild(produto);
 }
