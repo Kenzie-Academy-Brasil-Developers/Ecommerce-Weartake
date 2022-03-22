@@ -109,6 +109,13 @@ img {
     gap: 15px;
 }
 
+.acessorios, .calcados, .camisetas, .calcados {
+    background-color: #2E245E;
+    width: fit-content;
+    padding: 5px;
+    color: white;
+    font-size: 12px;
+}
 
 .caption {
     font-weight: 400;
@@ -127,6 +134,7 @@ img {
 }
 
 .addCart:hover {
+    cursor: pointer;
     color: #6B54DE;
     cursor: pointer;
 }
@@ -158,6 +166,10 @@ aside {
     color: white;
     padding: 10px;
     font-size: 16px;
+}
+
+#search:hover {
+    cursor: pointer;
 }
 
 #cartArea {
