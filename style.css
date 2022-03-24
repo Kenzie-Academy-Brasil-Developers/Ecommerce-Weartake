@@ -139,10 +139,6 @@ img {
     cursor: pointer;
 }
 
-aside {
-    width: 610px;
-}
-
 #searchArea {
     height: 50px;
     display: flex;
@@ -194,7 +190,7 @@ aside {
 #cart {
     overflow: hidden;
     overflow-y: scroll;
-    width: 100%;
+    width: 370px;
     height: 100%;
     display: flex;
     flex-wrap: wrap;
